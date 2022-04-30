@@ -44,6 +44,14 @@
             $nome = ["Marcos", 1005, true];
 
             echo "<br>".$nome[1];
+
+            //crie duas variaveis com numeros
+            //crie uma terceira variavel com a soma destes dois numeros
+
+            //Crie um arquivo PHP
+            //crie uma operacao com cada um dos operadores basicos 
+            //cada operacao deve estar em uma variavel diferente
+            //Imprima todas as operacoes que criou
         ?>
 </body>
 </html>
