@@ -1,0 +1,12 @@
+body {
+  background-color: gray;
+}
+
+.fab {
+  background-color: green;
+  font-size: 50px;
+}
+
+.navbar-brand img {
+  width: 50px;
+}
